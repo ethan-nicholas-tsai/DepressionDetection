@@ -19,3 +19,21 @@ depression detection on sina weibo using multivariate time series data
 |  10  |  交感神经唤醒 (Sympathetic Arousal)  |      心慌、心悸、胸闷、喘不过气、颤抖、视力模糊、冒冷汗      |
 |  11  |             恐慌 (Panic)             |              经常好怕、害怕、恐惧、恐慌，想逃避              |
 
+
+## Depressive search words
+
+
+|  #   |           Chinese Search Words           |                   English Meaning                    |
+| :--: | :----------------------------------: | :----------------------------------------------------------: |
+|  1   |          \#抑郁症\#          | Sina Weibo super topic of "Depression" in English |
+|  2   | 文拉法辛 | "Venlafaxine" in English |
+|  3   |     舍曲林     |                "Sertraline" in English                |
+|  4   |         度洛西汀          |            "Duloxetine" in English            |
+|  5   |          抑郁 一无是处           |    "Depression" and "Good for nothing" in English    |
+|  6   |        抑郁 生无可恋       |        "Depression" and "Don't want to live anymore" in English        |
+|  7   |          抑郁 没意思           | "Depression" and "Boring" in English |
+|  8   |  抑郁 难熬  | "Depression" and "Suffering" in English |
+|  9   |     抑郁 自残     | "Depression" and "Self-harm" in English |
+|  10  |  抑郁 吃药  |      "Depression" and "Take medicine" in English      |
+|  11  |             抑郁 想哭             |              "Depression" and "Want to cry" in English              |
+|  12  |             抑郁 想死             |              "Depression" and "Want to die" in English             |
