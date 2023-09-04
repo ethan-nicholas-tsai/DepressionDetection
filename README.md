@@ -36,6 +36,22 @@ mkdir -p data/swdd dataset results
 
 - The source code is reorganized and the filename is renamed in the form of "[No.]\_[FileName]", where [No.] indicates the execution order of the scripts.
 
+Notice that after you have executed the "4_make_ts_dataset.py", you should manually add the following info to the head of generated dataset file "train.ts" and "test.ts" in case it cannot be recognized as a time-series dataset.
+
+```
+@problemName MDDWeibo
+@timeStamps false
+@missing false
+@univariate false
+@dimensions 11
+@equalLength true
+@seriesLength 500
+@classLabel true 0 1
+@data
+```
+
+For more information of the time-series dataset format adopted in this paper, see [here](https://timeseriesclassification.com/) and download one of the dataset in [UCR Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/) to obtain full comprehension of the format.
+
 ## Cite (BibTex)
 
 Please cite the following paper, if you find our work useful in your research:
