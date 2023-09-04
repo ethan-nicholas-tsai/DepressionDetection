@@ -1,0 +1,14 @@
+icecream
+jsonlines
+pandas
+harvesttext
+scikit-learn
+pyhanlp
+matplotlib
+lxml
+bs4
+weibo-preprocess-toolkit
+sentence-transformers
+keras=2.3.1
+esig
+tsfresh
