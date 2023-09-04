@@ -29,7 +29,7 @@ We have uploaded all the source code needed to reproduce the results of experime
 ```
 git clone https://github.com/cyc21csri/DepressionDetection.git
 cd DepressionDetection
-mkdir -p data/swdd
+mkdir -p data/swdd dataset results
 ```
 
 - Download `SWDD` data from [here](https://drive.google.com/file/d/1fNKtoo4SP98OAhalMjNRZfFqmQZsQ0fh/view?usp=sharing) and unzip it to `data/swdd` folder
