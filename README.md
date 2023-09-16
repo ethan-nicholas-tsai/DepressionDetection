@@ -14,13 +14,15 @@ You can download and aquire the information the datasets from the following link
 
 ### Requirements
 
-Alongside the packages mentioned in the file "requirements.txt", you should install the following packages as below to run the deep learning classifiers in the paper.
+Alongside the packages mentioned in the file "requirements.txt", you should install the following packages as below to run the **deep learning classifiers** in the paper.
 
 - sktime-dl-0.2.0 (a modification to the origin package sktime-dl-0.1.0 by the author of this work)
 
 - sktime-0.5.3 
 
 We have packaged the two packages in zip files, see folder envs.
+
+For the **machine learning classifiers** in this paper (when running the file 8_lab_length_ml.py, 9_lab_prop_ml.py, 10_lab_ablation_ml.py), however, **you should update the sktime package to version 0.8.1**.
 
 ## How to Run
 
